@@ -96,9 +96,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-1448" />
-    <option name="y" value="174" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1456" />
     <option name="height" value="876" />
   </component>
@@ -148,10 +146,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.login.php">
     <configuration name="Desarrolladores.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/forms/forms-html/Desarrolladores.html" />
+    <configuration name="login.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/pagweb/login.php" />
+    <list>
+      <item itemvalue="JavaScript Debug.Desarrolladores.html" />
+      <item itemvalue="JavaScript Debug.login.php" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.login.php" />
         <item itemvalue="JavaScript Debug.Desarrolladores.html" />
       </list>
     </recent_temporary>
